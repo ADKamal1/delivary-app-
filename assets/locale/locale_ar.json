@@ -1,0 +1,93 @@
+{
+    "pageNames": {
+        "home": "الرئيسية",
+        "settings": "الاعدادت"
+    },
+    "pages": {
+        "settings": {
+            "general": "عامة",
+            "language": "عربي"
+        },
+        "home": {
+            "label_times": "اي حاجه ياعم يارب："
+        }
+    },
+
+    "loginPage": {
+        "deliveryManText": "رجل توصيل الطلبات",
+        "LoginPageRecivedText": "يسلم هذا البرنامج من المدير",
+        "textFieldUserName": "اسم المستخدم",
+        "textFieldPassword": "كلمة السر",
+        "btn": "تسجيل دخول",
+        "showError": "هناك خطأ حدث !",
+        "showErrorbtnText": "موافق"
+    },
+
+    "sideMenu": {
+        "sideMenuContact": "تواصل مع الشركة",
+        "sideMenuNumberOfMissions": "كل الطلبات",
+        "sideMenuPrivacyPolicy": "سياسة الخصوصية",
+        "sideMenuAboutCompany": "معلومات عن الشركة",
+        "sideMenuChangeLanguage": "اعدادات اللغة",
+        "sideMenuExit": "تسجيل خروج"
+    },
+    "AllOrderPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "title": "جميع الطلبات",
+        "client": "عميل"
+    },
+    "ContactUsPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "title": "تواصل معنا",
+        "body": "ايضا تستطيع التواصل معنا عن طريق صفحات التواصل الاجتماعي"
+    },
+    "PrivacyPolicyPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "title": "السياسة الخاصة",
+        "body": "للشركة سياسة خاصة في التعامل مع عملائها بشكل مستمر ومتواصل لتحقيق كل رغبات عملائها"
+    },
+
+    "MissionsPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "title": "عدد المهمات لتوصيل كل الطلبات",
+        "PendingText": "الــــمعلــق",
+        "ComplatedText": "الـــمنتهـــي",
+        "TotalText": "الكل",
+        "DetailsText": "تفاصيل"
+
+    },
+
+
+    "aboutCompanyPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "pagetitle": "عن الشركة",
+        "body": "شركتنا تسعي لقيادة السوق في مجال التكنولوجيا والمعلومات نعمل ونقدم كل الخدمات الخاصة بالموبيل والويب والبرامج المتعددة"
+
+    },
+
+    "NewOrderPage": {
+        "appbartitle": "رجل توصيل الطلبات",
+        "title": "طلب جديد",
+        "PaymentMethodText": "طرق الدفع او السداد",
+        "PayByCardText": "الدفع عن طريق البطاقة",
+        "PayByCashText": "الدفع نقدا",
+        "OrderSummaryText": "تفاصيل الطلب",
+        "SubTotalText": "المبلغ الاجمالي",
+        "DeliveryChargeText": "رسوم التوصيل",
+        "TotalText": "المجموع",
+        "ValueAddedTaxText": "ضريبة القيمة المضافة",
+        "ClientAddressText": "عنوان العميل",
+        "ClientLocationOnMap": "عنوان العميل علي الخريطة",
+        "OrderDeliverdAssurance": "تأكيد وصول الطلب"
+
+    },
+
+
+    "mainScreenPage": {
+        "YourOrder": "طلباتك",
+        "unFinishedOrder":"الطلبات الغير منتهية",
+        "FinishedOrder": "كل الطلبات"
+    }
+
+
+}

@@ -1,0 +1,91 @@
+{
+    "pageNames": {
+        "home": "Home",
+        "settings": "Settings"
+    },
+    "pages": {
+        "settings": {
+            "general": "General",
+            "language": "Language"
+        },
+        "home": {
+            "label_times": "You have pushed the button this many times:",
+            "welcome": "Welcome {{lastname}} {{name}}"
+        }
+    },
+
+    "loginPage": {
+        "deliveryManText": "Delivery Man",
+        "LoginPageRecivedText": "Recived From The administration",
+        "textFieldUserName": "user Name...",
+        "textFieldPassword": "Password",
+        "btn": "Login",
+        "showError": "An Error Occurred!",
+        "showErrorbtnText": "Okay"
+    },
+
+    "sideMenu": {
+        "sideMenuContact": "Contact with our company",
+        "sideMenuNumberOfMissions": "Number of missions All Order",
+        "sideMenuPrivacyPolicy": "Privacy Policy",
+        "sideMenuAboutCompany": "About Company",
+        "sideMenuChangeLanguage": "Change Language",
+        "sideMenuExit": "logout"
+
+    },
+
+    "aboutCompanyPage": {
+        "appbartitle": "Delivery Man",
+        "pagetitle": "About Company",
+        "body": "generate apk , I hope to achive that apk from that idea quickly\napk could run in android and ios systems"
+    },
+    "AllOrderPage": {
+        "appbartitle": "Delivery Man",
+        "title": "My Order",
+        "client": "client"
+    },
+    "ContactUsPage": {
+        "appbartitle": "Delivery Man",
+        "title": "Contact Us",
+        "body": "Also you can contact with us By Social Media"
+    },
+    "PrivacyPolicyPage": {
+        "appbartitle": "Delivery Man",
+        "title": "Privacy Policy",
+        "body": "Also you can contact with us By Social Media"
+    },
+    "MissionsPage": {
+        "appbartitle": "Delivery Man",
+        "title": "Number of Missions All Order",
+        "PendingText": "Pending",
+        "ComplatedText": "Complated",
+        "TotalText": "Total",
+        "DetailsText": "Details"
+
+    },
+    "NewOrderPage": {
+        "appbartitle": "Delivery Man",
+        "title": "New Order",
+        "PaymentMethodText": "PaymentMethod",
+        "PayByCardText": "Pay by Card",
+        "PayByCashText": "Pay by Cash",
+        "OrderSummaryText": "OrderSummary",
+        "SubTotalText": "SubTotal",
+        "DeliveryChargeText": "Delivery Charge",
+        "TotalText": "Total",
+        "ValueAddedTaxText": "Value Added Tax",
+        "ClientAddressText": "Client Address",
+        "ClientLocationOnMap": "Client Location On Google Maps",
+        "OrderDeliverdAssurance": "Order Deliverd Assurance"
+
+
+    },
+
+
+    "mainScreenPage": {
+        "YourOrder": "Your Order",
+        "unFinishedOrder": "Un FinishedOrder",
+        "FinishedOrder": "Finished Order"
+    }
+
+}
